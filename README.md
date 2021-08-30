@@ -2,6 +2,6 @@
 
 # To start the Application
 
- * `npm install`
- * `npm run start`
+ * `yarn`
+ * `yarn start`
 
