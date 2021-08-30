@@ -1,7 +1,7 @@
 {
-  "name": "help.com-react-coding-challange",
+  "name": "react-test-app",
   "version": "0.0.1",
-  "description": "help.com react coding challange",
+  "description": "react-test-app",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
